@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shrief-khamis
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning advanced Excel skills, intermediate SQL and R
-- 💞️ I’m looking to collaborate on business analytics projects
+- 👋 Hi, I’m Shrief
+- 👀 I’m interested in all things Data
+- 🌱 I’m currently learning Machine learning using Python, and Data Mining
+- 💞️ I’m looking to collaborate on business analytics projects, webscraping, and data mining projects
 - 📫 How to reach me? Here's LinkedIn https://www.linkedin.com/in/shrief-khamis/
 
 <!---
