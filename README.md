@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into meaning
 ---
 
 ### 🚀 About Me
-- 📊 **Data Professional:** Skilled at building end-to-end data solutions using Python, SQL, and cloud services like AWS.  
+- 📊 **Data Professional:** Skilled at building end-to-end data solutions using Python, SQL, and cloud services like AWS.
+- 🖥️ **Software Development:** Skilled in writing web scraping scripts, building and maintaining a simple Chrome extension, and automating workflows in Google Suite with Google Apps Script.   
 - 🌟 **Portfolio Projects:** Demonstrating skills in ELT pipelines, cloud computing, and advanced data analytics.  
 - 🌱 **Currently Learning:** Data Warehouse concepts, NoSQL databases, and scalable cloud solutions.  
 
@@ -15,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into meaning
 ### 🛠️ Skills
 - **Languages:** Python, SQL, JavaScript, Google App Script
 - **Technologies:** AWS (Lambda, S3, EC2, RDS), PostgreSQL, Docker, Browser Extensions, Google Suite
-- **Tools:** SQLAlchemy, pandas, matplotlib, Power BI  
+- **Tools:** SQLAlchemy, pandas, matplotlib, Power BI, BeautifulSoup
 
 ---
 
